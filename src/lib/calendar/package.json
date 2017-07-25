@@ -1,13 +1,13 @@
 {
-  "name": "@ionic2-extra/calendar",
-  "version": "0.0.27",
-  "description": "Calendar widget built on Ionic 2",
+  "name": "ionic2-calendar-multipicker",
+  "version": "0.0.1",
+  "description": "Calendar widget built on Ionic 2, forked from https://github.com/gnucoop/ionic2-extra",
   "main": "./calendar.umd.js",
   "module": "./index.js",
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gnucoop/ionic2-extra.git"
+    "url": "https://github.com/rapelt/ionic2-extra.git"
   },
   "keywords": [
     "ionic",
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gnucoop/ionic2-extra/issues"
+    "url": "https://github.com/rapelt/ionic2-extra/issues"
   },
-  "homepage": "https://github.com/gnucoop/ionic2-extra#readme",
+  "homepage": "https://github.com/rapelt/ionic2-extra.git#readme",
   "peerDependencies": {
     "moment": "^2.18.1"
   }
