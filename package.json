@@ -1,11 +1,11 @@
 {
-  "name": "ionic2-extra",
-  "description": "Extra widgets for Ionic 2",
-  "homepage": "https://github.com/gnucoop/ionic2-extra",
-  "bugs": "https://github.com/gnucoop/ionic2-extra/issues",
+  "name": "ionic2-calendar-multipicker",
+  "description": "Cloned from https://github.com/gnucoop/ionic2-extra and adding to it formultipicking",
+  "homepage": "https://github.com/rapelt/ionic2-extra",
+  "bugs": "https://github.com/rapelt/ionic2-extra/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gnucoop/ionic2-extra.git"
+    "url": "https://github.com/rapelt/ionic2-extra.git"
   },
   "scripts": {
     "build": "gulp build:components",
